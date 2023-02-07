@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
-ALX School os so cool!
+ALX School
+=======
+#!/bin/bash 
+ALX School
+>>>>>>> update_script
